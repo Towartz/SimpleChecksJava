@@ -1,18 +1,22 @@
 {
-  "key2224": {
-    "Version": "2.24.14.8",
-    "DateExpired": "2024-08-04"
+  "LocalDevice": {
+    "key222": {
+      "Version": "2.24.14.8",
+      "DateExpired": "2024-08-02"
+    },
+    "dummy": {
+      "Version": "v1.0",
+      "DateExpired": "2099-08-05"
+    }
   },
-  "keyD765FB7C56E64803": {
-    "Version": "2.24.14.8",
-    "DateExpired": "2024-08-26"
-  },
-  "key222": {
-    "Version": "2.24.14.8",
-    "DateExpired": "2024-08-02"
-  },
-  "dummy": {
-    "Version": "v1.0",
-    "DateExpired": "2099-08-05"
+  "KeyGenDevice": {
+    "key2224": {
+      "Version": "2.24.14.8",
+      "DateExpired": "2024-08-04"
+    },
+    "keyD765FB7C56E64803": {
+      "Version": "2.24.14.8",
+      "DateExpired": "2024-08-26"
+    }
   }
 }
