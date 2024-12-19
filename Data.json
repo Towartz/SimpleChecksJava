@@ -15,8 +15,8 @@
   },
   "LocalDevice": {
     "Txp.V5-Client": {
-      "Version": "2.24.18.74",
-      "DateExpired": "2024-12-26"
+      "Version": "2.24.25.78",
+      "DateExpired": "2025-2-26"
     },
     "dummy": {
       "Version": "v1.0",
